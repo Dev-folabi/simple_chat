@@ -13,7 +13,7 @@ const swaggerOptions = {
         },
         servers: [
             {
-                url: 'http://localhost:5000',
+                url: 'https://simple-chat-mocha.vercel.app/',
             },
         ],
     },
